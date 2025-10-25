@@ -1,0 +1,698 @@
+{
+  "ModName": "StarCraft II",
+  "TacticsPath": "StarCraft_II",
+  "ModVersion": 202510242234,
+  "Actions": [
+    {
+      "Abbr": "Attack",
+      "Desc": "前压"
+    }
+  ],
+  "Units": [
+    {
+      "Abbr": "Pba",
+      "Desc": "吸纳仓"
+    },
+    {
+      "Abbr": "Pbb",
+      "Desc": "护盾充能器"
+    },
+    {
+      "Abbr": "Pbc",
+      "Desc": "光子炮台"
+    },
+    {
+      "Abbr": "Pbe",
+      "Desc": "水晶塔"
+    },
+    {
+      "Abbr": "Pbf",
+      "Desc": "锻炉"
+    },
+    {
+      "Abbr": "Pbfg",
+      "Desc": "地面武器升级"
+    },
+    {
+      "Abbr": "Pbfa",
+      "Desc": "地面护甲升级"
+    },
+    {
+      "Abbr": "Pbfs",
+      "Desc": "护盾升级"
+    },
+    {
+      "Abbr": "Pbg",
+      "Desc": "传送门"
+    },
+    {
+      "Abbr": "Pbgd",
+      "Desc": "黑暗圣堂武士"
+    },
+    {
+      "Abbr": "Pbge",
+      "Desc": "机械哨兵"
+    },
+    {
+      "Abbr": "Pbgg",
+      "Desc": "变形折跃门"
+    },
+    {
+      "Abbr": "Pbgh",
+      "Desc": "使徒"
+    },
+    {
+      "Abbr": "Pbgs",
+      "Desc": "追猎者"
+    },
+    {
+      "Abbr": "Pbgt",
+      "Desc": "高阶圣堂武士"
+    },
+    {
+      "Abbr": "Pbgtt",
+      "Desc": "执政官融合"
+    },
+    {
+      "Abbr": "Pbgz",
+      "Desc": "狂热者"
+    },
+    {
+      "Abbr": "Pbn",
+      "Desc": "星灵枢纽"
+    },
+    {
+      "Abbr": "Pbnc",
+      "Desc": "时空提速"
+    },
+    {
+      "Abbr": "Pbne",
+      "Desc": "探机"
+    },
+    {
+      "Abbr": "Pbnm",
+      "Desc": "母舰"
+    },
+    {
+      "Abbr": "Pby",
+      "Desc": "控制芯核"
+    },
+    {
+      "Abbr": "Pbya",
+      "Desc": "空军武器"
+    },
+    {
+      "Abbr": "Pbye",
+      "Desc": "空军护甲"
+    },
+    {
+      "Abbr": "Pbyg",
+      "Desc": "研究折跃门"
+    },
+    {
+      "Abbr": "Pvb",
+      "Desc": "机械研究所"
+    },
+    {
+      "Abbr": "Pvbb",
+      "Desc": "重力加速器"
+    },
+    {
+      "Abbr": "Pvbe",
+      "Desc": "加长热能射线枪"
+    },
+    {
+      "Abbr": "Pvbg",
+      "Desc": "重力驱动器"
+    },
+    {
+      "Abbr": "Pvc",
+      "Desc": "光影议会"
+    },
+    {
+      "Abbr": "Pvca",
+      "Desc": "共鸣之刃"
+    },
+    {
+      "Abbr": "Pvcb",
+      "Desc": "闪现"
+    },
+    {
+      "Abbr": "Pvcc",
+      "Desc": "冲锋"
+    },
+    {
+      "Abbr": "Pvd",
+      "Desc": "黑暗圣坛"
+    },
+    {
+      "Abbr": "Pvdb",
+      "Desc": "暗影步"
+    },
+    {
+      "Abbr": "Pvf",
+      "Desc": "舰队航标"
+    },
+    {
+      "Abbr": "Pvff",
+      "Desc": "熔流旋叶"
+    },
+    {
+      "Abbr": "Pvfr",
+      "Desc": "阴离子脉冲水晶"
+    },
+    {
+      "Abbr": "Pvft",
+      "Desc": "构造失稳器"
+    },
+    {
+      "Abbr": "Pvr",
+      "Desc": "机械台"
+    },
+    {
+      "Abbr": "Pvra",
+      "Desc": "折跃棱镜"
+    },
+    {
+      "Abbr": "Pvrb",
+      "Desc": "侦测器"
+    },
+    {
+      "Abbr": "Pvrc",
+      "Desc": "巨像"
+    },
+    {
+      "Abbr": "Pvrd",
+      "Desc": "干扰者"
+    },
+    {
+      "Abbr": "Pvri",
+      "Desc": "不朽者"
+    },
+    {
+      "Abbr": "Pvs",
+      "Desc": "星门"
+    },
+    {
+      "Abbr": "Pvsc",
+      "Desc": "航母"
+    },
+    {
+      "Abbr": "Pvse",
+      "Desc": "先知"
+    },
+    {
+      "Abbr": "Pvst",
+      "Desc": "风暴战舰"
+    },
+    {
+      "Abbr": "Pvsv",
+      "Desc": "虚空辉光舰"
+    },
+    {
+      "Abbr": "Pvsx",
+      "Desc": "凤凰战机"
+    },
+    {
+      "Abbr": "Pvt",
+      "Desc": "圣堂武士文献馆"
+    },
+    {
+      "Abbr": "Pvtt",
+      "Desc": "灵能风暴"
+    },
+    {
+      "Abbr": "Tbb",
+      "Desc": "兵营"
+    },
+    {
+      "Abbr": "Tbba",
+      "Desc": "陆战队员"
+    },
+    {
+      "Abbr": "Tbbd",
+      "Desc": "劫掠者"
+    },
+    {
+      "Abbr": "Tbbg",
+      "Desc": "幽灵"
+    },
+    {
+      "Abbr": "Tbbr",
+      "Desc": "收割者"
+    },
+    {
+      "Abbr": "Tbbxc",
+      "Desc": "防暴盾牌"
+    },
+    {
+      "Abbr": "Tbbxg",
+      "Desc": "震撼弹"
+    },
+    {
+      "Abbr": "Tbbxt",
+      "Desc": "强化剂"
+    },
+    {
+      "Abbr": "Tbcb",
+      "Desc": "轨道控制基地"
+    },
+    {
+      "Abbr": "Tbcbe",
+      "Desc": "矿骡"
+    },
+    {
+      "Abbr": "Tbcbx",
+      "Desc": "空投补给"
+    },
+    {
+      "Abbr": "Tbcp",
+      "Desc": "行星要塞"
+    },
+    {
+      "Abbr": "Tbcs",
+      "Desc": "SCV"
+    },
+    {
+      "Abbr": "Tbe",
+      "Desc": "工程站"
+    },
+    {
+      "Abbr": "Tbea",
+      "Desc": "步兵防御"
+    },
+    {
+      "Abbr": "Tbeb",
+      "Desc": "精钢护甲"
+    },
+    {
+      "Abbr": "Tbee",
+      "Desc": "步兵攻击"
+    },
+    {
+      "Abbr": "Tbeh",
+      "Desc": "瞬时自动追踪"
+    },
+    {
+      "Abbr": "Tbc",
+      "Desc": "指挥中心"
+    },
+    {
+      "Abbr": "Tbn",
+      "Desc": "感应塔"
+    },
+    {
+      "Abbr": "Tbr",
+      "Desc": "精炼厂"
+    },
+    {
+      "Abbr": "Tbs",
+      "Desc": "补给站"
+    },
+    {
+      "Abbr": "Tbt",
+      "Desc": "导弹塔"
+    },
+    {
+      "Abbr": "Tbu",
+      "Desc": "地堡"
+    },
+    {
+      "Abbr": "Tc",
+      "Desc": "反应堆挂件"
+    },
+    {
+      "Abbr": "Tct",
+      "Desc": "交换反应堆挂件"
+    },
+    {
+      "Abbr": "Tva",
+      "Desc": "军械库"
+    },
+    {
+      "Abbr": "Tvae",
+      "Desc": "战车武器"
+    },
+    {
+      "Abbr": "Tvas",
+      "Desc": "空军武器"
+    },
+    {
+      "Abbr": "Tvav",
+      "Desc": "机械单位防御"
+    },
+    {
+      "Abbr": "Tvc",
+      "Desc": "聚变芯体"
+    },
+    {
+      "Abbr": "Tvca",
+      "Desc": "卡度休斯反应堆"
+    },
+    {
+      "Abbr": "Tvcn",
+      "Desc": "强化弹道"
+    },
+    {
+      "Abbr": "Tvcr",
+      "Desc": "大和炮"
+    },
+    {
+      "Abbr": "Tvf",
+      "Desc": "重工厂"
+    },
+    {
+      "Abbr": "Tvfd",
+      "Desc": "寡妇雷"
+    },
+    {
+      "Abbr": "Tvfe",
+      "Desc": "恶火"
+    },
+    {
+      "Abbr": "Tvfn",
+      "Desc": "飓风"
+    },
+    {
+      "Abbr": "Tvfr",
+      "Desc": "恶蝠"
+    },
+    {
+      "Abbr": "Tvfs",
+      "Desc": "攻城坦克"
+    },
+    {
+      "Abbr": "Tvft",
+      "Desc": "雷神"
+    },
+    {
+      "Abbr": "Tvfxc",
+      "Desc": "钻地之爪"
+    },
+    {
+      "Abbr": "Tvfxi",
+      "Desc": "地狱火预燃器"
+    },
+    {
+      "Abbr": "Tvfxr",
+      "Desc": "电磁立场加速器"
+    },
+    {
+      "Abbr": "Tvfxs",
+      "Desc": "智能伺服器"
+    },
+    {
+      "Abbr": "Tvg",
+      "Desc": "幽灵军校"
+    },
+    {
+      "Abbr": "Tvgc",
+      "Desc": "隐形迷彩"
+    },
+    {
+      "Abbr": "Tvgn",
+      "Desc": "核弹"
+    },
+    {
+      "Abbr": "Tvs",
+      "Desc": "星港"
+    },
+    {
+      "Abbr": "Tvsb",
+      "Desc": "战列巡洋舰"
+    },
+    {
+      "Abbr": "Tvsd",
+      "Desc": "医疗运输机"
+    },
+    {
+      "Abbr": "Tvse",
+      "Desc": "女妖"
+    },
+    {
+      "Abbr": "Tvsn",
+      "Desc": "解放者"
+    },
+    {
+      "Abbr": "Tvsr",
+      "Desc": "铁鸦"
+    },
+    {
+      "Abbr": "Tvsv",
+      "Desc": "维京战机"
+    },
+    {
+      "Abbr": "Tvsxb",
+      "Desc": "高速旋翼"
+    },
+    {
+      "Abbr": "Tvsxc",
+      "Desc": "隐形立场"
+    },
+    {
+      "Abbr": "Tvsxe",
+      "Desc": "干扰矩阵"
+    },
+    {
+      "Abbr": "Tx",
+      "Desc": "科技实验室"
+    },
+    {
+      "Abbr": "Txt",
+      "Desc": "交换科技挂件"
+    },
+    {
+      "Abbr": "Zba",
+      "Desc": "孢子爬虫"
+    },
+    {
+      "Abbr": "Zbb",
+      "Desc": "爆虫巢穴"
+    },
+    {
+      "Abbr": "Zbbc",
+      "Desc": "环心镰钩"
+    },
+    {
+      "Abbr": "Zbc",
+      "Desc": "脊针爬虫"
+    },
+    {
+      "Abbr": "Zbe",
+      "Desc": "萃取房"
+    },
+    {
+      "Abbr": "Zbh",
+      "Desc": "孵化场"
+    },
+    {
+      "Abbr": "Zbhb",
+      "Desc": "潜地"
+    },
+    {
+      "Abbr": "Zbhl",
+      "Desc": "虫穴"
+    },
+    {
+      "Abbr": "Zbhlh",
+      "Desc": "主巢"
+    },
+    {
+      "Abbr": "Zbhp",
+      "Desc": "充气甲壳"
+    },
+    {
+      "Abbr": "Zbhq",
+      "Desc": "虫后"
+    },
+    {
+      "Abbr": "Zbr",
+      "Desc": "蟑螂温室"
+    },
+    {
+      "Abbr": "Zbrg",
+      "Desc": "神经胶原重组"
+    },
+    {
+      "Abbr": "Zbrt",
+      "Desc": "掘地之爪"
+    },
+    {
+      "Abbr": "Zbs",
+      "Desc": "分裂池"
+    },
+    {
+      "Abbr": "Zbsa",
+      "Desc": "肾上腺体"
+    },
+    {
+      "Abbr": "Zbsm",
+      "Desc": "代谢加速"
+    },
+    {
+      "Abbr": "Zbv",
+      "Desc": "进化腔"
+    },
+    {
+      "Abbr": "Zbva",
+      "Desc": "地面喷射攻击"
+    },
+    {
+      "Abbr": "Zbvc",
+      "Desc": "地面单位甲壳"
+    },
+    {
+      "Abbr": "Zbvm",
+      "Desc": "地面近战攻击"
+    },
+    {
+      "Abbr": "Zsa",
+      "Desc": "虫群宿主"
+    },
+    {
+      "Abbr": "Zsc",
+      "Desc": "腐化者"
+    },
+    {
+      "Abbr": "Zscb",
+      "Desc": "巢虫领主"
+    },
+    {
+      "Abbr": "Zsd",
+      "Desc": "工蜂"
+    },
+    {
+      "Abbr": "Zse",
+      "Desc": "飞蛇"
+    },
+    {
+      "Abbr": "Zsf",
+      "Desc": "感染者"
+    },
+    {
+      "Abbr": "Zsh",
+      "Desc": "刺蛇"
+    },
+    {
+      "Abbr": "Zshe",
+      "Desc": "潜伏者"
+    },
+    {
+      "Abbr": "Zsr",
+      "Desc": "蟑螂"
+    },
+    {
+      "Abbr": "Zsrv",
+      "Desc": "破坏者"
+    },
+    {
+      "Abbr": "Zst",
+      "Desc": "异龙"
+    },
+    {
+      "Abbr": "Zsu",
+      "Desc": "雷兽"
+    },
+    {
+      "Abbr": "Zsv",
+      "Desc": "王虫"
+    },
+    {
+      "Abbr": "Zsvt",
+      "Desc": "变异腹囊"
+    },
+    {
+      "Abbr": "Zsvv",
+      "Desc": "变异眼虫"
+    },
+    {
+      "Abbr": "Zsz",
+      "Desc": "跳虫"
+    },
+    {
+      "Abbr": "Zsze",
+      "Desc": "变异爆虫"
+    },
+    {
+      "Abbr": "Zvd",
+      "Desc": "潜伏者巢穴"
+    },
+    {
+      "Abbr": "Zvdd",
+      "Desc": "适应之爪"
+    },
+    {
+      "Abbr": "Zvds",
+      "Desc": "震地脊刺"
+    },
+    {
+      "Abbr": "Zvh",
+      "Desc": "刺蛇巢"
+    },
+    {
+      "Abbr": "Zvhf",
+      "Desc": "纳米肌肉膨胀"
+    },
+    {
+      "Abbr": "Zvhg",
+      "Desc": "深槽脊刺"
+    },
+    {
+      "Abbr": "Zvhh",
+      "Desc": "肌腱扩增"
+    },
+    {
+      "Abbr": "Zvi",
+      "Desc": "感染深渊"
+    },
+    {
+      "Abbr": "Zvie",
+      "Desc": "精神寄生"
+    },
+    {
+      "Abbr": "Zvic",
+      "Desc": "微生物环绕云"
+    },
+    {
+      "Abbr": "Zvn",
+      "Desc": "虫道网络"
+    },
+    {
+      "Abbr": "Zvnn",
+      "Desc": "坑道虫"
+    },
+    {
+      "Abbr": "Zvs",
+      "Desc": "尖塔"
+    },
+    {
+      "Abbr": "Zvsa",
+      "Desc": "飞行生物攻击"
+    },
+    {
+      "Abbr": "Zvsc",
+      "Desc": "飞行生物甲壳"
+    },
+    {
+      "Abbr": "Zvsg",
+      "Desc": "巨型尖塔"
+    },
+    {
+      "Abbr": "Zvu",
+      "Desc": "雷兽窟"
+    },
+    {
+      "Abbr": "Zvua",
+      "Desc": "进化骨板"
+    },
+    {
+      "Abbr": "Zvuc",
+      "Desc": "合成代谢"
+    }
+  ],
+  "Author": "Hope.Phenom",
+  "ProjectWebSite": "https://sc2.east-unicorn.cn",
+  "Email": "hope.phenom@foxmail.com",
+  "UpdateTime": "2025-10-24 22:34",
+  "Desc": "星际争霸II的MOD"
+}
