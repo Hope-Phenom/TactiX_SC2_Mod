@@ -1,698 +1,869 @@
 {
   "ModName": "StarCraft II",
   "TacticsPath": "StarCraft_II",
-  "ModVersion": 202510242234,
+  "ModVersion": 202510312015,
   "Actions": [
     {
       "Abbr": "Attack",
-      "Desc": "前压"
+      "Desc": "前压",
+      "Type": 0
     }
   ],
   "Units": [
     {
       "Abbr": "Pba",
-      "Desc": "吸纳仓"
+      "Desc": "吸纳仓",
+      "Type": 3
     },
     {
       "Abbr": "Pbb",
-      "Desc": "护盾充能器"
+      "Desc": "护盾充能器",
+      "Type": 3
     },
     {
       "Abbr": "Pbc",
-      "Desc": "光子炮台"
+      "Desc": "光子炮台",
+      "Type": 3
     },
     {
       "Abbr": "Pbe",
-      "Desc": "水晶塔"
+      "Desc": "水晶塔",
+      "Type": 3
     },
     {
       "Abbr": "Pbf",
-      "Desc": "锻炉"
+      "Desc": "锻炉",
+      "Type": 3
     },
     {
       "Abbr": "Pbfg",
-      "Desc": "地面武器升级"
+      "Desc": "地面武器升级",
+      "Type": 4
     },
     {
       "Abbr": "Pbfa",
-      "Desc": "地面护甲升级"
+      "Desc": "地面护甲升级",
+      "Type": 4
     },
     {
       "Abbr": "Pbfs",
-      "Desc": "护盾升级"
+      "Desc": "护盾升级",
+      "Type": 4
     },
     {
       "Abbr": "Pbg",
-      "Desc": "传送门"
+      "Desc": "传送门",
+      "Type": 3
     },
     {
       "Abbr": "Pbgd",
-      "Desc": "黑暗圣堂武士"
+      "Desc": "黑暗圣堂武士",
+      "Type": 2
     },
     {
       "Abbr": "Pbge",
-      "Desc": "机械哨兵"
+      "Desc": "机械哨兵",
+      "Type": 2
     },
     {
       "Abbr": "Pbgg",
-      "Desc": "变形折跃门"
+      "Desc": "变形折跃门",
+      "Type": 4
     },
     {
       "Abbr": "Pbgh",
-      "Desc": "使徒"
+      "Desc": "使徒",
+      "Type": 2
     },
     {
       "Abbr": "Pbgs",
-      "Desc": "追猎者"
+      "Desc": "追猎者",
+      "Type": 2
     },
     {
       "Abbr": "Pbgt",
-      "Desc": "高阶圣堂武士"
+      "Desc": "高阶圣堂武士",
+      "Type": 2
     },
     {
       "Abbr": "Pbgtt",
-      "Desc": "执政官融合"
+      "Desc": "执政官融合",
+      "Type": 2
     },
     {
       "Abbr": "Pbgz",
-      "Desc": "狂热者"
+      "Desc": "狂热者",
+      "Type": 2
     },
     {
       "Abbr": "Pbn",
-      "Desc": "星灵枢纽"
+      "Desc": "星灵枢纽",
+      "Type": 3
     },
     {
       "Abbr": "Pbnc",
-      "Desc": "时空提速"
+      "Desc": "时空提速",
+      "Type": 0
     },
     {
       "Abbr": "Pbne",
-      "Desc": "探机"
+      "Desc": "探机",
+      "Type": 1
     },
     {
       "Abbr": "Pbnm",
-      "Desc": "母舰"
+      "Desc": "母舰",
+      "Type": 2
     },
     {
       "Abbr": "Pby",
-      "Desc": "控制芯核"
+      "Desc": "控制芯核",
+      "Type": 3
     },
     {
       "Abbr": "Pbya",
-      "Desc": "空军武器"
+      "Desc": "空军武器",
+      "Type": 4
     },
     {
       "Abbr": "Pbye",
-      "Desc": "空军护甲"
+      "Desc": "空军护甲",
+      "Type": 4
     },
     {
       "Abbr": "Pbyg",
-      "Desc": "研究折跃门"
+      "Desc": "研究折跃门",
+      "Type": 4
     },
     {
       "Abbr": "Pvb",
-      "Desc": "机械研究所"
+      "Desc": "机械研究所",
+      "Type": 3
     },
     {
       "Abbr": "Pvbb",
-      "Desc": "重力加速器"
+      "Desc": "重力加速器",
+      "Type": 4
     },
     {
       "Abbr": "Pvbe",
-      "Desc": "加长热能射线枪"
+      "Desc": "加长热能射线枪",
+      "Type": 4
     },
     {
       "Abbr": "Pvbg",
-      "Desc": "重力驱动器"
+      "Desc": "重力驱动器",
+      "Type": 4
     },
     {
       "Abbr": "Pvc",
-      "Desc": "光影议会"
+      "Desc": "光影议会",
+      "Type": 3
     },
     {
       "Abbr": "Pvca",
-      "Desc": "共鸣之刃"
+      "Desc": "共鸣之刃",
+      "Type": 4
     },
     {
       "Abbr": "Pvcb",
-      "Desc": "闪现"
+      "Desc": "闪现",
+      "Type": 4
     },
     {
       "Abbr": "Pvcc",
-      "Desc": "冲锋"
+      "Desc": "冲锋",
+      "Type": 4
     },
     {
       "Abbr": "Pvd",
-      "Desc": "黑暗圣坛"
+      "Desc": "黑暗圣坛",
+      "Type": 3
     },
     {
       "Abbr": "Pvdb",
-      "Desc": "暗影步"
+      "Desc": "暗影步",
+      "Type": 4
     },
     {
       "Abbr": "Pvf",
-      "Desc": "舰队航标"
+      "Desc": "舰队航标",
+      "Type": 3
     },
     {
       "Abbr": "Pvff",
-      "Desc": "熔流旋叶"
+      "Desc": "熔流旋叶",
+      "Type": 4
     },
     {
       "Abbr": "Pvfr",
-      "Desc": "阴离子脉冲水晶"
+      "Desc": "阴离子脉冲水晶",
+      "Type": 4
     },
     {
       "Abbr": "Pvft",
-      "Desc": "构造失稳器"
+      "Desc": "构造失稳器",
+      "Type": 4
     },
     {
       "Abbr": "Pvr",
-      "Desc": "机械台"
+      "Desc": "机械台",
+      "Type": 3
     },
     {
       "Abbr": "Pvra",
-      "Desc": "折跃棱镜"
+      "Desc": "折跃棱镜",
+      "Type": 2
     },
     {
       "Abbr": "Pvrb",
-      "Desc": "侦测器"
+      "Desc": "侦测器",
+      "Type": 2
     },
     {
       "Abbr": "Pvrc",
-      "Desc": "巨像"
+      "Desc": "巨像",
+      "Type": 2
     },
     {
       "Abbr": "Pvrd",
-      "Desc": "干扰者"
+      "Desc": "干扰者",
+      "Type": 2
     },
     {
       "Abbr": "Pvri",
-      "Desc": "不朽者"
+      "Desc": "不朽者",
+      "Type": 2
     },
     {
       "Abbr": "Pvs",
-      "Desc": "星门"
+      "Desc": "星门",
+      "Type": 3
     },
     {
       "Abbr": "Pvsc",
-      "Desc": "航母"
+      "Desc": "航母",
+      "Type": 2
     },
     {
       "Abbr": "Pvse",
-      "Desc": "先知"
+      "Desc": "先知",
+      "Type": 2
     },
     {
       "Abbr": "Pvst",
-      "Desc": "风暴战舰"
+      "Desc": "风暴战舰",
+      "Type": 2
     },
     {
       "Abbr": "Pvsv",
-      "Desc": "虚空辉光舰"
+      "Desc": "虚空辉光舰",
+      "Type": 2
     },
     {
       "Abbr": "Pvsx",
-      "Desc": "凤凰战机"
+      "Desc": "凤凰战机",
+      "Type": 2
     },
     {
       "Abbr": "Pvt",
-      "Desc": "圣堂武士文献馆"
+      "Desc": "圣堂武士文献馆",
+      "Type": 3
     },
     {
       "Abbr": "Pvtt",
-      "Desc": "灵能风暴"
+      "Desc": "灵能风暴",
+      "Type": 4
     },
     {
       "Abbr": "Tbb",
-      "Desc": "兵营"
+      "Desc": "兵营",
+      "Type": 3
     },
     {
       "Abbr": "Tbba",
-      "Desc": "陆战队员"
+      "Desc": "陆战队员",
+      "Type": 2
     },
     {
       "Abbr": "Tbbd",
-      "Desc": "劫掠者"
+      "Desc": "劫掠者",
+      "Type": 2
     },
     {
       "Abbr": "Tbbg",
-      "Desc": "幽灵"
+      "Desc": "幽灵",
+      "Type": 2
     },
     {
       "Abbr": "Tbbr",
-      "Desc": "收割者"
+      "Desc": "收割者",
+      "Type": 2
     },
     {
       "Abbr": "Tbbxc",
-      "Desc": "防暴盾牌"
+      "Desc": "防暴盾牌",
+      "Type": 4
     },
     {
       "Abbr": "Tbbxg",
-      "Desc": "震撼弹"
+      "Desc": "震撼弹",
+      "Type": 4
     },
     {
       "Abbr": "Tbbxt",
-      "Desc": "强化剂"
+      "Desc": "强化剂",
+      "Type": 4
     },
     {
       "Abbr": "Tbcb",
-      "Desc": "轨道控制基地"
+      "Desc": "轨道控制基地",
+      "Type": 3
     },
     {
       "Abbr": "Tbcbe",
-      "Desc": "矿骡"
+      "Desc": "矿骡",
+      "Type": 1
     },
     {
       "Abbr": "Tbcbx",
-      "Desc": "空投补给"
+      "Desc": "空投补给",
+      "Type": 3
     },
     {
       "Abbr": "Tbcp",
-      "Desc": "行星要塞"
+      "Desc": "行星要塞",
+      "Type": 3
     },
     {
       "Abbr": "Tbcs",
-      "Desc": "SCV"
+      "Desc": "SCV",
+      "Type": 1
     },
     {
       "Abbr": "Tbe",
-      "Desc": "工程站"
+      "Desc": "工程站",
+      "Type": 3
     },
     {
       "Abbr": "Tbea",
-      "Desc": "步兵防御"
+      "Desc": "步兵防御",
+      "Type": 4
     },
     {
       "Abbr": "Tbeb",
-      "Desc": "精钢护甲"
+      "Desc": "精钢护甲",
+      "Type": 4
     },
     {
       "Abbr": "Tbee",
-      "Desc": "步兵攻击"
+      "Desc": "步兵攻击",
+      "Type": 4
     },
     {
       "Abbr": "Tbeh",
-      "Desc": "瞬时自动追踪"
+      "Desc": "瞬时自动追踪",
+      "Type": 4
     },
     {
       "Abbr": "Tbc",
-      "Desc": "指挥中心"
+      "Desc": "指挥中心",
+      "Type": 3
     },
     {
       "Abbr": "Tbn",
-      "Desc": "感应塔"
+      "Desc": "感应塔",
+      "Type": 3
     },
     {
       "Abbr": "Tbr",
-      "Desc": "精炼厂"
+      "Desc": "精炼厂",
+      "Type": 3
     },
     {
       "Abbr": "Tbs",
-      "Desc": "补给站"
+      "Desc": "补给站",
+      "Type": 3
     },
     {
       "Abbr": "Tbt",
-      "Desc": "导弹塔"
+      "Desc": "导弹塔",
+      "Type": 3
     },
     {
       "Abbr": "Tbu",
-      "Desc": "地堡"
+      "Desc": "地堡",
+      "Type": 3
     },
     {
       "Abbr": "Tc",
-      "Desc": "反应堆挂件"
+      "Desc": "反应堆挂件",
+      "Type": 3
     },
     {
       "Abbr": "Tct",
-      "Desc": "交换反应堆挂件"
+      "Desc": "交换反应堆挂件",
+      "Type": 3
     },
     {
       "Abbr": "Tva",
-      "Desc": "军械库"
+      "Desc": "军械库",
+      "Type": 3
     },
     {
       "Abbr": "Tvae",
-      "Desc": "战车武器"
+      "Desc": "战车武器",
+      "Type": 4
     },
     {
       "Abbr": "Tvas",
-      "Desc": "空军武器"
+      "Desc": "空军武器",
+      "Type": 4
     },
     {
       "Abbr": "Tvav",
-      "Desc": "机械单位防御"
+      "Desc": "机械单位防御",
+      "Type": 4
     },
     {
       "Abbr": "Tvc",
-      "Desc": "聚变芯体"
+      "Desc": "聚变芯体",
+      "Type": 3
     },
     {
       "Abbr": "Tvca",
-      "Desc": "卡度休斯反应堆"
+      "Desc": "卡度休斯反应堆",
+      "Type": 4
     },
     {
       "Abbr": "Tvcn",
-      "Desc": "强化弹道"
+      "Desc": "强化弹道",
+      "Type": 4
     },
     {
       "Abbr": "Tvcr",
-      "Desc": "大和炮"
+      "Desc": "大和炮",
+      "Type": 4
     },
     {
       "Abbr": "Tvf",
-      "Desc": "重工厂"
+      "Desc": "重工厂",
+      "Type": 3
     },
     {
       "Abbr": "Tvfd",
-      "Desc": "寡妇雷"
+      "Desc": "寡妇雷",
+      "Type": 2
     },
     {
       "Abbr": "Tvfe",
-      "Desc": "恶火"
+      "Desc": "恶火",
+      "Type": 2
     },
     {
       "Abbr": "Tvfn",
-      "Desc": "飓风"
+      "Desc": "飓风",
+      "Type": 2
     },
     {
       "Abbr": "Tvfr",
-      "Desc": "恶蝠"
+      "Desc": "恶蝠",
+      "Type": 2
     },
     {
       "Abbr": "Tvfs",
-      "Desc": "攻城坦克"
+      "Desc": "攻城坦克",
+      "Type": 2
     },
     {
       "Abbr": "Tvft",
-      "Desc": "雷神"
+      "Desc": "雷神",
+      "Type": 2
     },
     {
       "Abbr": "Tvfxc",
-      "Desc": "钻地之爪"
+      "Desc": "钻地之爪",
+      "Type": 4
     },
     {
       "Abbr": "Tvfxi",
-      "Desc": "地狱火预燃器"
+      "Desc": "地狱火预燃器",
+      "Type": 4
     },
     {
       "Abbr": "Tvfxr",
-      "Desc": "电磁立场加速器"
+      "Desc": "电磁立场加速器",
+      "Type": 4
     },
     {
       "Abbr": "Tvfxs",
-      "Desc": "智能伺服器"
+      "Desc": "智能伺服器",
+      "Type": 4
     },
     {
       "Abbr": "Tvg",
-      "Desc": "幽灵军校"
+      "Desc": "幽灵军校",
+      "Type": 3
     },
     {
       "Abbr": "Tvgc",
-      "Desc": "隐形迷彩"
+      "Desc": "隐形迷彩",
+      "Type": 4
     },
     {
       "Abbr": "Tvgn",
-      "Desc": "核弹"
+      "Desc": "核弹",
+      "Type": 2
     },
     {
       "Abbr": "Tvs",
-      "Desc": "星港"
+      "Desc": "星港",
+      "Type": 3
     },
     {
       "Abbr": "Tvsb",
-      "Desc": "战列巡洋舰"
+      "Desc": "战列巡洋舰",
+      "Type": 2
     },
     {
       "Abbr": "Tvsd",
-      "Desc": "医疗运输机"
+      "Desc": "医疗运输机",
+      "Type": 2
     },
     {
       "Abbr": "Tvse",
-      "Desc": "女妖"
+      "Desc": "女妖",
+      "Type": 2
     },
     {
       "Abbr": "Tvsn",
-      "Desc": "解放者"
+      "Desc": "解放者",
+      "Type": 2
     },
     {
       "Abbr": "Tvsr",
-      "Desc": "铁鸦"
+      "Desc": "铁鸦",
+      "Type": 2
     },
     {
       "Abbr": "Tvsv",
-      "Desc": "维京战机"
+      "Desc": "维京战机",
+      "Type": 2
     },
     {
       "Abbr": "Tvsxb",
-      "Desc": "高速旋翼"
+      "Desc": "高速旋翼",
+      "Type": 4
     },
     {
       "Abbr": "Tvsxc",
-      "Desc": "隐形立场"
+      "Desc": "隐形立场",
+      "Type": 4
     },
     {
       "Abbr": "Tvsxe",
-      "Desc": "干扰矩阵"
+      "Desc": "干扰矩阵",
+      "Type": 4
     },
     {
       "Abbr": "Tx",
-      "Desc": "科技实验室"
+      "Desc": "科技实验室",
+      "Type": 3
     },
     {
       "Abbr": "Txt",
-      "Desc": "交换科技挂件"
+      "Desc": "交换科技挂件",
+      "Type": 3
     },
     {
       "Abbr": "Zba",
-      "Desc": "孢子爬虫"
+      "Desc": "孢子爬虫",
+      "Type": 3
     },
     {
       "Abbr": "Zbb",
-      "Desc": "爆虫巢穴"
+      "Desc": "爆虫巢穴",
+      "Type": 3
     },
     {
       "Abbr": "Zbbc",
-      "Desc": "环心镰钩"
+      "Desc": "环心镰钩",
+      "Type": 4
     },
     {
       "Abbr": "Zbc",
-      "Desc": "脊针爬虫"
+      "Desc": "脊针爬虫",
+      "Type": 3
     },
     {
       "Abbr": "Zbe",
-      "Desc": "萃取房"
+      "Desc": "萃取房",
+      "Type": 3
     },
     {
       "Abbr": "Zbh",
-      "Desc": "孵化场"
+      "Desc": "孵化场",
+      "Type": 3
     },
     {
       "Abbr": "Zbhb",
-      "Desc": "潜地"
+      "Desc": "潜地",
+      "Type": 4
     },
     {
       "Abbr": "Zbhl",
-      "Desc": "虫穴"
+      "Desc": "虫穴",
+      "Type": 3
     },
     {
       "Abbr": "Zbhlh",
-      "Desc": "主巢"
+      "Desc": "主巢",
+      "Type": 3
     },
     {
       "Abbr": "Zbhp",
-      "Desc": "充气甲壳"
+      "Desc": "充气甲壳",
+      "Type": 4
     },
     {
       "Abbr": "Zbhq",
-      "Desc": "虫后"
+      "Desc": "虫后",
+      "Type": 1
     },
     {
       "Abbr": "Zbr",
-      "Desc": "蟑螂温室"
+      "Desc": "蟑螂温室",
+      "Type": 3
     },
     {
       "Abbr": "Zbrg",
-      "Desc": "神经胶原重组"
+      "Desc": "神经胶原重组",
+      "Type": 4
     },
     {
       "Abbr": "Zbrt",
-      "Desc": "掘地之爪"
+      "Desc": "掘地之爪",
+      "Type": 4
     },
     {
       "Abbr": "Zbs",
-      "Desc": "分裂池"
+      "Desc": "分裂池",
+      "Type": 3
     },
     {
       "Abbr": "Zbsa",
-      "Desc": "肾上腺体"
+      "Desc": "肾上腺体",
+      "Type": 4
     },
     {
       "Abbr": "Zbsm",
-      "Desc": "代谢加速"
+      "Desc": "代谢加速",
+      "Type": 4
     },
     {
       "Abbr": "Zbv",
-      "Desc": "进化腔"
+      "Desc": "进化腔",
+      "Type": 3
     },
     {
       "Abbr": "Zbva",
-      "Desc": "地面喷射攻击"
+      "Desc": "地面喷射攻击",
+      "Type": 4
     },
     {
       "Abbr": "Zbvc",
-      "Desc": "地面单位甲壳"
+      "Desc": "地面单位甲壳",
+      "Type": 4
     },
     {
       "Abbr": "Zbvm",
-      "Desc": "地面近战攻击"
+      "Desc": "地面近战攻击",
+      "Type": 4
     },
     {
       "Abbr": "Zsa",
-      "Desc": "虫群宿主"
+      "Desc": "虫群宿主",
+      "Type": 2
     },
     {
       "Abbr": "Zsc",
-      "Desc": "腐化者"
+      "Desc": "腐化者",
+      "Type": 2
     },
     {
       "Abbr": "Zscb",
-      "Desc": "巢虫领主"
+      "Desc": "巢虫领主",
+      "Type": 2
     },
     {
       "Abbr": "Zsd",
-      "Desc": "工蜂"
+      "Desc": "工蜂",
+      "Type": 1
     },
     {
       "Abbr": "Zse",
-      "Desc": "飞蛇"
+      "Desc": "飞蛇",
+      "Type": 2
     },
     {
       "Abbr": "Zsf",
-      "Desc": "感染者"
+      "Desc": "感染者",
+      "Type": 2
     },
     {
       "Abbr": "Zsh",
-      "Desc": "刺蛇"
+      "Desc": "刺蛇",
+      "Type": 2
     },
     {
       "Abbr": "Zshe",
-      "Desc": "潜伏者"
+      "Desc": "潜伏者",
+      "Type": 2
     },
     {
       "Abbr": "Zsr",
-      "Desc": "蟑螂"
+      "Desc": "蟑螂",
+      "Type": 2
     },
     {
       "Abbr": "Zsrv",
-      "Desc": "破坏者"
+      "Desc": "破坏者",
+      "Type": 2
     },
     {
       "Abbr": "Zst",
-      "Desc": "异龙"
+      "Desc": "异龙",
+      "Type": 2
     },
     {
       "Abbr": "Zsu",
-      "Desc": "雷兽"
+      "Desc": "雷兽",
+      "Type": 2
     },
     {
       "Abbr": "Zsv",
-      "Desc": "王虫"
+      "Desc": "王虫",
+      "Type": 3
     },
     {
       "Abbr": "Zsvt",
-      "Desc": "变异腹囊"
+      "Desc": "变异腹囊",
+      "Type": 4
     },
     {
       "Abbr": "Zsvv",
-      "Desc": "变异眼虫"
+      "Desc": "变异眼虫",
+      "Type": 2
     },
     {
       "Abbr": "Zsz",
-      "Desc": "跳虫"
+      "Desc": "跳虫",
+      "Type": 2
     },
     {
       "Abbr": "Zsze",
-      "Desc": "变异爆虫"
+      "Desc": "变异爆虫",
+      "Type": 2
     },
     {
       "Abbr": "Zvd",
-      "Desc": "潜伏者巢穴"
+      "Desc": "潜伏者巢穴",
+      "Type": 3
     },
     {
       "Abbr": "Zvdd",
-      "Desc": "适应之爪"
+      "Desc": "适应之爪",
+      "Type": 4
     },
     {
       "Abbr": "Zvds",
-      "Desc": "震地脊刺"
+      "Desc": "震地脊刺",
+      "Type": 4
     },
     {
       "Abbr": "Zvh",
-      "Desc": "刺蛇巢"
+      "Desc": "刺蛇巢",
+      "Type": 3
     },
     {
       "Abbr": "Zvhf",
-      "Desc": "纳米肌肉膨胀"
+      "Desc": "纳米肌肉膨胀",
+      "Type": 4
     },
     {
       "Abbr": "Zvhg",
-      "Desc": "深槽脊刺"
+      "Desc": "深槽脊刺",
+      "Type": 4
     },
     {
       "Abbr": "Zvhh",
-      "Desc": "肌腱扩增"
+      "Desc": "肌腱扩增",
+      "Type": 4
     },
     {
       "Abbr": "Zvi",
-      "Desc": "感染深渊"
+      "Desc": "感染深渊",
+      "Type": 3
     },
     {
       "Abbr": "Zvie",
-      "Desc": "精神寄生"
+      "Desc": "精神寄生",
+      "Type": 4
     },
     {
       "Abbr": "Zvic",
-      "Desc": "微生物环绕云"
+      "Desc": "微生物环绕云",
+      "Type": 4
     },
     {
       "Abbr": "Zvn",
-      "Desc": "虫道网络"
+      "Desc": "虫道网络",
+      "Type": 3
     },
     {
       "Abbr": "Zvnn",
-      "Desc": "坑道虫"
+      "Desc": "坑道虫",
+      "Type": 2
     },
     {
       "Abbr": "Zvs",
-      "Desc": "尖塔"
+      "Desc": "尖塔",
+      "Type": 3
     },
     {
       "Abbr": "Zvsa",
-      "Desc": "飞行生物攻击"
+      "Desc": "飞行生物攻击",
+      "Type": 4
     },
     {
       "Abbr": "Zvsc",
-      "Desc": "飞行生物甲壳"
+      "Desc": "飞行生物甲壳",
+      "Type": 4
     },
     {
       "Abbr": "Zvsg",
-      "Desc": "巨型尖塔"
+      "Desc": "巨型尖塔",
+      "Type": 3
     },
     {
       "Abbr": "Zvu",
-      "Desc": "雷兽窟"
+      "Desc": "雷兽窟",
+      "Type": 3
     },
     {
       "Abbr": "Zvua",
-      "Desc": "进化骨板"
+      "Desc": "进化骨板",
+      "Type": 4
     },
     {
       "Abbr": "Zvuc",
-      "Desc": "合成代谢"
+      "Desc": "合成代谢",
+      "Type": 4
     }
   ],
   "Author": "Hope.Phenom",
-  "ProjectWebSite": "https://sc2.east-unicorn.cn",
+  "ProjectWebSite": "https://github.com/Hope-Phenom/TactiX_SC2_Mod",
   "Email": "hope.phenom@foxmail.com",
-  "UpdateTime": "2025-10-24 22:34",
+  "UpdateTime": "2025-10-31 20:15",
   "Desc": "星际争霸II的MOD"
 }
