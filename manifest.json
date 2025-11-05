@@ -1,7 +1,7 @@
 {
   "ModName": "StarCraft II",
   "TacticsPath": "StarCraft_II",
-  "ModVersion": 202510312015,
+  "ModVersion": 202511051411,
   "Actions": [
     {
       "Abbr": "Attack",
@@ -864,6 +864,6 @@
   "Author": "Hope.Phenom",
   "ProjectWebSite": "https://github.com/Hope-Phenom/TactiX_SC2_Mod",
   "Email": "hope.phenom@foxmail.com",
-  "UpdateTime": "2025-10-31 20:15",
+  "UpdateTime": "2025-11-05 14:11",
   "Desc": "星际争霸II的MOD"
 }
